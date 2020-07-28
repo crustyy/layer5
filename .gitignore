@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dist
 .now
 _site
@@ -64,6 +65,15 @@ typings/
 public
 
 # Mac files
+=======
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.cache
+serve
+Gemfile.lock
+>>>>>>> upstream/master
 .DS_Store
 
 # Yarn
